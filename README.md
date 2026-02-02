@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomwilliams-cloudsec
-- I am pursuing a career in Cloud Security 
-- 🌱 Im self taught in Python (about intermediate level). I am currently Studying AWS
+- I am pursuing a career in Cloud (solutions architect)
+- 🌱 Currently studying towards SAA
 - 📫 How to reach me ... twilliams6210@gmail.com
 
 <!---
