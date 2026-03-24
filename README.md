@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomwilliams-cloudsec
-- I am pursuing a career in Cloud (solutions architect)
+- I am pursuing a career in Cloud 
 - 🌱 Hands on Experience With Python/AWS
 - 📫 How to reach me ... twilliams6210@gmail.com
 
